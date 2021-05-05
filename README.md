@@ -1,2 +1,2 @@
 # Data-Visualization
-Data visualization technique using Plotly  
+Data visualization technique using various Python libraries 
