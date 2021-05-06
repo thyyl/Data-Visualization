@@ -1,4 +1,4 @@
-Data visualization using Plotly
+### Data visualization using Plotly
 
 
 Run the following function to use Plotly in Google Colab and calls it at every cell that uses Plotly 
