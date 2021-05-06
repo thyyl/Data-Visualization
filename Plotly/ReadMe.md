@@ -1,6 +1,7 @@
 Data visualization using Plotly
 
 
+Run the following function to use Plotly in Google Colab and calls it at every cell that uses Plotly 
 ```
 def configure_plotly_browser_state():
   import IPython
